@@ -1,6 +1,6 @@
 # Weather Forecasting SPA
 
-Udemy coursework for learning Redux and React.
+Udemy coursework for learning Redux and React
 
 ###Getting Started###
 
@@ -10,3 +10,10 @@ Udemy coursework for learning Redux and React.
 	> npm install
 	> npm start
 ```
+### Concepts used
+
+- Redux
+- Action Listeners
+- Redux middleware
+- Axios to call Weather API
+- Google Map component for React
