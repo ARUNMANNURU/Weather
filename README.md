@@ -2,6 +2,9 @@
 
 Udemy coursework for learning Redux and React
 
+### App on Heroku
+http://weather-reduxapp.herokuapp.com/
+
 ###Getting Started###
 
 ```
