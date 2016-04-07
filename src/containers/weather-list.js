@@ -40,7 +40,6 @@ import GoogleMaps from '../components/google_map'
     //we need to iterate over each city of the weather array. The weather.map(this.renderWeather) is calling
     // renderWeather function for each element in the array.
 
-    console.log("weather :" + this.props.weather);
     return (
       <table className="table table-hover">
         <thead>

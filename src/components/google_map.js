@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import {GoogleMapLoader, GoogleMap} from 'react-google-maps';
 
 export default (props) => {
-  console.log("reached foofle")
   return (
     <GoogleMapLoader
     containerElement={ <div style={{height: '100%'}}></div> }
