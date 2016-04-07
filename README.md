@@ -13,6 +13,8 @@ http://weather-reduxapp.herokuapp.com/
 	> npm install
 	> npm start
 ```
+Enter city names to see the forecast weather derived from openweather.org
+
 ### Concepts used
 
 - Redux
